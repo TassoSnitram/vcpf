@@ -1,5 +1,5 @@
 {
- "name": "vcpf",
+ "name": "vcpff",
  "version": "1.0.0",
  "description": "API para validar cpf",
  "author": "First Last <first.last@example.com>",
@@ -10,6 +10,6 @@
  },
  "dependencies": {
  "express": "^4.16.1",
- "validar-cpf": "^2.0.4"
+ "validar-cpff": "^2.0.4"
  }
 }
