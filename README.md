@@ -1,4 +1,3 @@
-# vcp
 {
  "name": "vcpf",
  "version": "1.0.0",
